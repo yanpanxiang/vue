@@ -1,0 +1,11 @@
+target/
+.mvn/
+.idea
+*.iws
+*.iml
+*.ipr
+
+**/node_modules
+**/app.js
+**/styles.css
+**/vendor.js
