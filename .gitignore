@@ -6,6 +6,6 @@ target/
 *.ipr
 
 **/node_modules
-**/app.js
-**/styles.css
-**/vendor.js
+**/js/*
+**/css/*
+**/index.html
